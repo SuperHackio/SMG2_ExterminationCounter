@@ -1,5 +1,5 @@
 #include "kamek/hooks.h"
-#include "CollectCounter.h"
+#include "Game/MapObj/CollectCounter.h"
 #include "Game/LiveActor/LiveActor.h"
 #include "Game/Player/MarioActor.h"
 #include "Game/Player/Mario.h"
