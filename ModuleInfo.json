@@ -1,5 +1,6 @@
 {
   "Name": "Extermination Counter",
   "Author": "Super Hackio",
-  "Description": "That one planet from Space Junk..."
+  "Description": "That one planet from Space Junk...",
+  "SupportedGames": [ "SB4" ]
 }
